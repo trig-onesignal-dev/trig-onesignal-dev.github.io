@@ -1,6 +1,6 @@
 /**
 * Theme: Hyper - Responsive Bootstrap 5 Admin Dashboard
-* Author: Coderthemes
+* Author: Developer
 * Module/App: Main Js
 */
 
@@ -429,7 +429,7 @@
 
 /**
 * Theme: Hyper - Responsive Bootstrap 5 Admin Dashboard
-* Author: Coderthemes
+* Author: Developer
 * Module/App: Layout Js
 */
 

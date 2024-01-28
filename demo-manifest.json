@@ -1,0 +1,39 @@
+{
+  "name": "DemoPush",
+  "short_name": "DemoPush",
+  "description": "DemoPush Simple PWA",
+  "icons": [
+    {
+      "src": "assets/images/onesignal-logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/onesignal-logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/images/screen1.png",
+      "sizes": "1000x1600",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/images/screen1.png",
+      "sizes": "1000x1600",
+      "type": "image/jpeg"
+    }
+  ],
+  "background_color": "#af0a1a",
+  "theme_color": "#af0a1a",
+  "display": "fullscreen",
+  "orientation": "any",
+  "start_url": ".",
+  "url": "index.html",
+  "scope": ".",
+  "lang": "fa-IR",
+  "dir": "rtl"
+}
